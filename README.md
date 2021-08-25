@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhengboxu547
 - 👀 I’m interested in ...learning programing languages
 - 🌱 I’m currently learning ...programing languages
-- 💞️ I’m looking to collaborate on ...programing
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
